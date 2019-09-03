@@ -1,5 +1,5 @@
 #### <a href="CV.md">CV</a>		 
-#### <a href="https://github.com/Celeste-Nicholas/Celeste_Nicholas/Research.md">Research</a>
+#### <a href="Celeste-Nicholas/Celeste_Nicholas/Research.md">Research</a>
 #### <a href="Publications & Presentations.md">Publications & Presentations</a>
 -----
 ![Headshot](headshot 3.png) <br>
