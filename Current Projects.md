@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## Current Projects
 
-_yay_
+Coming soon
 
 [back](./)
