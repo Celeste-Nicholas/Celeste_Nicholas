@@ -1,5 +1,5 @@
 #### <a href="CV.md">CV</a>		 
-#### Research 	
+#### <a href="Research.md">Research</a>
 #### <a href="Publications & Presentations.md">Publications & Presentations</a>
 -----
 ![Headshot](headshot 3.png) <br>
