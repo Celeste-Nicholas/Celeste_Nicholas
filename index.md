@@ -1,4 +1,4 @@
-#### [CV](https://github.com/Celeste-Nicholas/Celeste_Nicholas/blob/b32c92a3be27c0b178af62968401f8a5ed018a10/CV.md) 	 
+#### [CV](./CV.md)
 #### Current Projects
 #### Publications & Presentations
 -----
