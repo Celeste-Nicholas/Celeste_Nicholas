@@ -1,9 +1,6 @@
 ---
-layout: default
+
 ---
 
-## Welcome to another page
+## Coming soon
 
-_yay_
-
-[back](./)
