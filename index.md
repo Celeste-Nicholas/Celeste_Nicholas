@@ -1,6 +1,6 @@
-#### <a href="CV.md">CV</a>		 
-#### <a href="Celeste-Nicholas/Celeste_Nicholas/Research.md">Research</a>
-#### <a href="Publications & Presentations.md">Publications & Presentations</a>
+#### CV 	 
+#### Current Projects
+#### Publications & Presentations
 -----
 ![Headshot](headshot 3.png) <br>
 **Posdoctoral Research Associate, Indiana University** <br>
