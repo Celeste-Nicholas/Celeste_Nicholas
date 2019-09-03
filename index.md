@@ -1,6 +1,6 @@
 #### [CV](https://github.com/Celeste-Nicholas/Celeste_Nicholas/blob/b32c92a3be27c0b178af62968401f8a5ed018a10/CV.md) 	 
 #### Current Projects
-#### [Publications & Presentations](https://github.com/Celeste Nicholas/Celeste_Nicholas/blob/master/Publications%20%26%20Presentations.md
+#### Publications & Presentations
 -----
 ![Headshot](headshot 3.png) <br>
 **Posdoctoral Research Associate, Indiana University** <br>
