@@ -1,4 +1,4 @@
-# CV					# Research				# Publications & Presentations
+### CV					### Research				### Publications & Presentations
 -----
 ![Headshot](headshot 3.png)
 
