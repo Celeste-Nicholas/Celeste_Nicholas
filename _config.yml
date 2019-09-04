@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: [Celeste R. Nicholas]
-logo: ![headshot](Celeste-Nicholas/Celeste_Nicholas/assets/headshot 3.png)
+logo: [assets/headshot 3.png]
 
 github:
   is_project_page: false
