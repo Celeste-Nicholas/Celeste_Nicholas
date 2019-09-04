@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# PUBLICATIONS
-
-## ARTICLES IN REFERRED JOURNALS
+## ARTICLES IN REFEREED JOURNALS
 
 **Nicholas, C.** & Eastman-Mueller, H. (In Press). Supporting critical social analysis: Empowering 
 	processes in a reproductive justice youth program. *Urban Review.
@@ -39,3 +37,45 @@ Louis, MO. Retrieved from http://www.springboardstl.org/causes/ideabuilder/
 
 **Nicholas, C. (2014).** Project health. Signature Programs, Springboard to Learning.  St. Louis, MO. Retrieved from http://www.springboardstl.org/causes/project-health/
 
+## REFEREED CONFERENCE PRESENTATIONS 
+
+**Nicholas, C.,** Keifert, D., Danish, J., & Park Rogers, M. (submitted). *Using teachers’ self-selected video of representations during science lessons to inform professional learning designs*. Paper submitted to American Educational Research Association (AERA) Annual Meeting. New York, NY. San Francisco, CA. 
+ 
+Danish, J., **Nicholas, C.,** Hmelo-Silver, C., Park Rogers, M., Cross Francis, D., Enyedy, N., Keifert, D., and Stiso, S. (submitted). *What, how, and why do elementary teachers think about using representations in their science teaching?* Paper submitted to American Educational Research Association (AERA) Annual Meeting. New York, NY. San Francisco, CA. 
+ 
+Park Rogers, M., **Nicholas. C,** Danish, J., Gerber, A., McClain, J., Phillips, A., Stiso, C., and Zhong, Q. (submitted). *Elementary teachers’ developing perceptions of the role of representations in teaching science.* Paper submitted to the Association for Science Teacher Education International Conference. San Antonio, TX.  
+
+Park Rogers, M., Danish, J., **Nicholas, C.,** Cross Francis, D. Hmelo-Silver, C. (2019). *Supporting teacher cognition and instruction of science representations in elementary classrooms: A peek into the first year of a multi-year program.* Poster presented at the Association for Science Teacher Education International Conference. Savannah, GA., January.
+ 
+Cross Francis, D. Tan, V. & **Nicholas, C.** (2018). *Integrated STEM learning in a workplace simulation.*
+Paper presented at Joint Seminar of Educational Research. University of Warsaw. Warsaw, Poland, May.
+
+**Nicholas, C.** (2018). *Empowerment within and beyond a youth organizing group.* Paper presented at the American Educational Research Association (AERA) Annual Meeting. New York, NY.  April.  
+
+**Nicholas, C.** (2018).  *Stepping out of the comfort zone: Reflections on social justice education experiences.* Paper presented at the American Educational Research Association (AERA) Annual Meeting. New York, NY. April.  
+
+**Nicholas, C.** (2018). *“You get treated like young adults:” The meaning of participation in a 
+STEM camp involving industry professionals.* Poster presented at the American Association for the Advancement of Science (AAAS) Annual Meeting. Austin, TX. February. 
+
+**Nicholas, C.** (2017). *Teen science journalists: Multiple modes of writer identity.* Paper presented at 
+the Literacy Research Association Annual Conference. Tampa, FL. November. 
+
+**Nicholas, C.** (2017). *Becoming change agents: Pathways from youth organizing groups to adult civic engagement* Paper presented at the Annual International Postgraduate Research Conference. Phranakhon Rajabhat University, Bangkok, Thailand. January. 
+
+**Nicholas, C.** (2016). *What does it mean to be a sexual health youth organizer?* Poster presented at The Center for Sex Education National Sex Ed Conference. Atlantic City, NJ. December. 
+
+**Nicholas, C.** & Peterson, J. (2016). *Biomimicry: The "natural" intersection of biology and 
+engineering.* Presentation at the National Science Teachers Association (NSTA) National Conference on Science Education. Nashville, TN. April. 
+
+Launius, J.C. & **Nicholas, C.** (2016). *IdeaBuilders: Infusing engineering practices and literature.*
+Presentation at the National Science Teachers Association (NSTA) National Conference on Science Education, Nashville, TN. April.
+
+**Nicholas, C.** (2015). *Beyond tanks and tear gas: Combating the invisible enemy in St. Louis.* Paper 
+presented at the Society of Philosophy and History of Education (SOPHE) Annual Meeting, St. Louis, MO. October.
+
+**Nicholas, C.** (2015). *“SciJourn is awesome”: Construction of a science journalism community of practice.* Paper presented at the University of Missouri- St. Louis Graduate Research Fair. April. 
+
+**Nicholas, C.** (2015). *Health education for empowerment across and beyond the curriculum.* Presentation at the Educators for Social Justice Conference, Maplewood, MO. February. 
+
+## INVITED PRESENTATIONS 
+**Nicholas, C. (2013).** *Experience the SciJourn process: Sources and paraphrasing.* Presentation at the Louisville Writing Project Conference, Louisville, KY. August. 
