@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 #### [CV](./CV.md)
 #### [Current Projects](./Current Projects.md)
 #### [Publications & Presentations](./Publications & Presentations.md)
