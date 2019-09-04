@@ -2,7 +2,7 @@
 permalink: /index.html
 ---
 
-### [CV](./CV.md)
+### [CV](./CV-Nicholas_Aug 2019.pdf)
 ### [Current Projects](./Current Projects.md)
 ### [Publications & Presentations](./Publications & Presentations.md)
 -----
