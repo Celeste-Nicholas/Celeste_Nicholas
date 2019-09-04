@@ -3,7 +3,7 @@ permalink: /index.html
 ---
 
 ### [CV](./CV-Nicholas_Aug 2019.pdf)
-### [Current Projects](./Projects.md)
+### [Projects](./Projects.md)
 ### [Publications & Presentations](./Publications & Presentations.md)
 -----
 ![Headshot](headshot 3.png) <br>
