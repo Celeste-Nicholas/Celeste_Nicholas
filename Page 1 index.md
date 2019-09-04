@@ -2,9 +2,9 @@
 permalink: /index.html
 ---
 
-#### [CV](./CV.md)
-#### [Current Projects](./Current Projects.md)
-#### [Publications & Presentations](./Publications & Presentations.md)
+### [CV](./CV.md)
+### [Current Projects](./Current Projects.md)
+### [Publications & Presentations](./Publications & Presentations.md)
 -----
 ![Headshot](headshot 3.png) <br>
 **Posdoctoral Research Associate, Indiana University** <br>
