@@ -1,3 +1,3 @@
 
 
-## [DOWNLOAD CV](./CV-Nicholas_Aug 2019.pdf)
+# [DOWNLOAD CV](./CV-Nicholas_Aug 2019.pdf)
