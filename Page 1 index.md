@@ -1,7 +1,7 @@
 ---
 permalink: /index.html
 ---
-![Headshot](assets/Evergreen headshot.jpg) <br>
+![Headshot](assets/Sept headshot3.jpeg) <br>
 **Postdoctoral Research Associate, Indiana University** <br>
 ----
 ### [CV](./CV-Nicholas_Aug 2019.pdf)
