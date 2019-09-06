@@ -33,9 +33,9 @@ of practice. *Cultural Studies of Science Education*, 12 (2), 275-298. [doi: 10.
 ## CURRICULA
 
 Launius, C. & **Nicholas, C.** (2015). IdeaBuilder. Signature Programs, Springboard to Learning, St. 
-Louis, MO. Retrieved from http://www.springboardstl.org/causes/ideabuilder/
+Louis, MO. Retrieved from [http://www.springboardstl.org/causes/ideabuilder](http://www.springboardstl.org/causes/ideabuilder/)
 
-**Nicholas, C. (2014).** Project health. Signature Programs, Springboard to Learning.  St. Louis, MO. Retrieved from http://www.springboardstl.org/causes/project-health/
+**Nicholas, C. (2014).** Project health. Signature Programs, Springboard to Learning.  St. Louis, MO. Retrieved from [http://www.springboardstl.org/causes/project-health/](http://www.springboardstl.org/causes/project-health/)
 
 ## REFEREED CONFERENCE PRESENTATIONS 
 
