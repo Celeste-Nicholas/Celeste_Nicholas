@@ -15,7 +15,7 @@ Tan, V., **Nicholas, C.,**  Scribner, A., & Cross Francis, D. (2019). Enhancing 
 	an interdisciplinary, industry-generated project. *Technology and Engineering Teacher*, 79 (1).
 
 **Nicholas, C.** (2017). SciJourn is magic: Construction of a science journalism community 
-of practice. *Cultural Studies of Science Education*, 12 (2), 275-298. doi: 10.1007/s11422-015-9724-2
+of practice. *Cultural Studies of Science Education*, 12 (2), 275-298. [doi: 10.1007/s11422-015-9724-2](https://www.springerprofessional.de/en/scijourn-is-magic-construction-of-a-science-journalism-community/7078818?searchResult=1.Celeste%20Nicholas&searchBackButton=true)
 
 **Nicholas, C.** & Peterson, J. (2015). Biomimicry: The "natural" intersection of biology and 
 	engineering. *Science Scope*, 38 (7), 18-24. 
