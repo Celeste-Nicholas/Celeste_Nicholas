@@ -2,6 +2,7 @@
 permalink: /index.html
 ---
 ![Headshot](assets/Sept headshot3.jpeg) <br>
+**Ph.D. in Education** <br>
 **Postdoctoral Research Associate, Indiana University** <br>
 ----
 ### [CV](./CV-Nicholas_Aug 2019.pdf)
