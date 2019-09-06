@@ -9,7 +9,7 @@ layout: default
 
 Cross Francis, D., Tan, V. & **Nicholas, C.** (In Press). Supporting disciplinary and interdisciplinary knowledge development and design thinking in an informal, pre-engineering program: A workplace simulation project. *School Science & Mathematics.*
 
-**Nicholas, C.,** Eastman-Mueller, H. & Barbich, N. (2019). Empowering change agents: Youth organizing groups as sites for sociopolitical development. *American Journal of Community Psychology*. doi: 10.1002/ajcp.12315
+**Nicholas, C.,** Eastman-Mueller, H. & Barbich, N. (2019). Empowering change agents: Youth organizing groups as sites for sociopolitical development. *American Journal of Community Psychology*. ![doi: 10.1002/ajcp.12315](doi: 10.1002/ajcp.12315)
 
 Tan, V., **Nicholas, C.,**  Scribner, A., & Cross Francis, D. (2019). Enhancing STEM learning through 
 	an interdisciplinary, industry-generated project. *Technology and Engineering Teacher*, 79 (1).
