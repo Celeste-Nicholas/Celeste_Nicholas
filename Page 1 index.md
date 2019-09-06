@@ -3,7 +3,7 @@ permalink: /index.html
 ---
 ![Headshot](assets/Sept headshot3.jpeg) <br>
 **Ph.D. in Education** <br>
-**Postdoctoral Research Associate, Indiana University** <br>
+**Postdoctoral Research Associate, [Indiana University](https://crlt.indiana.edu/people/index.html) <br>
 ----
 ### [CV](./CV-Nicholas_Aug 2019.pdf)
 ### [Projects](./Projects.md)
