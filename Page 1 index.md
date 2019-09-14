@@ -1,4 +1,3 @@
----
 permalink: /index.html
 ---
 ![Headshot](assets/Sept headshot3.jpeg) <br>
