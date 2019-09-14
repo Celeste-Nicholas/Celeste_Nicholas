@@ -1,4 +1,3 @@
-<!-- color: #A9A9A9 --> 
 ---
 permalink: /index.html
 ---
