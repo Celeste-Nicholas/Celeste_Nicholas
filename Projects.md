@@ -10,6 +10,7 @@ The RepTaL project supports rural elementary teachers in incorporating represent
 
 ## [Workplace Simulation Projects (WSPs)](https://p16.education.indiana.edu/projects/current/workplace-simulation-projects/defense.html)
 ### PI: [Dionne Cross Francis](https://education.indiana.edu/about/directory/profiles/cross_francis-dionne.html)
+Celeste has directed multiple projects in rural Indiana high schools created and facilitated in partnership with volunteers from local STEM industries (e.g., defense, biopharma). We prioritized authenticity in our designs aiming to more student-driven, interdisciplinary, and collaborative than traditional schooling experiences. More meaningful, collaborative STEM learning experiences may appeal more to students underrepresented in STEM fields, who face multiple barriers to accessing STEM pathways. Driven by the potential of authentic learning environments to enhance access for underrepresented students, I am studying authenticity from the perspectives of multiple stake holders (engineering and math students, teachers, engineer volunteers). My analysis focuses on how elements of the learning environment designed to be authentic supported student engagement (e.g., autonomy, collaboration, involvement of engineers). Findings inform the design of authentic learning environments involving STEM professional volunteers. 
 
 ## Experiences of Former Participants in Teen Advocates for Sexual Health [(TASH)](https://www.plannedparenthood.org/planned-parenthood-st-louis-region-southwest-missouri/education/teen-advocates-sexual-health)
 
