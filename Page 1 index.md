@@ -1,5 +1,7 @@
 permalink: /index.html
 ---
+layout: default
+---
 ![Headshot](assets/Sept headshot3.jpeg) <br>
 **Ph.D. in Education** <br>
 **Postdoctoral Research Associate,** [Indiana University](https://crlt.indiana.edu/people/index.html) <br>
