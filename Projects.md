@@ -25,7 +25,9 @@ Celeste seeks to understand how STEM education can empower youth to contribute t
 
 To explore the link between health knowledge, critical consciousness, and action, Celeste conducted phenomenologically-based interviews with staff and former participants in Planned Parenthood youth organizing group, Teen Advocates for Sexual Health (TASH). Participating teens received critically-oriented comprehensive sexual education and advocated for less restrictive school-based sexual education policies. 
 
-Findings integrate psychologial empowerment and sociopolitical development lenses to relate elements of TASH’s reproductive justice programming to adult empowerment outcomes. Insights include: (1) political efficacy, critical consciousness, and TASH-related social capital supported alumni in pursuing socially-oriented careers – building capacity beyond involvement in TASH; (2) social justice pedagogies practiced by adult leaders fostered safe, but uncomfortable dialogues productive for critical consciousness development.   
+Findings integrate psychologial empowerment and sociopolitical development lenses to relate elements of TASH’s reproductive justice programming to adult empowerment outcomes. 
+
+Insights include: (1) political efficacy, critical consciousness, and TASH-related social capital supported alumni in pursuing socially-oriented careers – building capacity beyond involvement in TASH; (2) social justice pedagogies practiced by adult leaders fostered safe, but uncomfortable dialogues productive for critical consciousness development.   
 
 ## [Science Literacy Though Science Journalism (SciJourn)](http://www.scijourner.org/)
 ### PI: [Wendy Saul](https://coe.umsl.edu/mycoe/p2_profiles/viewProfile/sso_id/saulw)
