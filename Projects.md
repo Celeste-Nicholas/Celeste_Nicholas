@@ -18,6 +18,7 @@ Celeste seeks to understand how STEM education can empower youth to contribute t
 
 ## [Science Literacy Though Science Journalism (SciJourn)](http://www.scijourner.org/)
 ### PI: [Wendy Saul](https://coe.umsl.edu/mycoe/p2_profiles/viewProfile/sso_id/saulw)
+The SciJourn project supported students in writing and publishing science news articles on topics of their choice while engaging in the authentic practices of professional science journalists. Celeste participated in SciJourn as a teacher consultant and later as a member of the research team. She examined the ways SciJourn, as a science journalism community of practice, fostered positive writer identities. Teen participants described themselves as agentic in SciJourn and passive in school, using an academic writing discourse of deficit to describe schooling experiences. 
 
 A complete list of projects can be found on [Celeste's CV](https://www.celestenicholas.com/assets/CV-Nicholas_Sept%202019%20website.pdf)
 
