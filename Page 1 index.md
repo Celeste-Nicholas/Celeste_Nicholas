@@ -1,6 +1,5 @@
-permalink: /index.html
 ---
-layout: default
+permalink: /index.html
 ---
 ![Headshot](assets/Sept headshot3.jpeg) <br>
 **Ph.D. in Education** <br>
