@@ -6,7 +6,8 @@ layout: default
 
 ## **[Representations for Teachers as Learners (RepTaL)]** (http://reptalproject.org/) 
 ### PI: [Joshua Danish](http://www.joshuadanish.com/) 
-The RepTaL project supports rural elementary teachers in incorporating representations (e.g., diagrams, graphs) into their science teaching. The learning sciences and science education research on modeling guide the investigation. <br> <p>
+The RepTaL project supports rural elementary teachers in incorporating representations (e.g., diagrams, graphs) into their science teaching. The learning sciences and science education research on *modeling practices* guide the investigation.
+
 Additionally, Celeste is pursuing questions around equity relating to the rural, predominantly white, study population. Viewing rural communities exclusively through lens of white privilege can obscure ways in which they are vulnerable (e.g., geographic isolation, small student populations, underfunding, and difficulty attracting highly-qualified teachers of science). 
   
 Celeste wants to understand how teachers draw upon rural student funds of knowledge when teaching with representations. This analysis informs the project's iterative professional development designs – as the team encourages teachers to consider student funds when planning and when reflecting on artifacts of practice (e.g., student work, lesson video).
