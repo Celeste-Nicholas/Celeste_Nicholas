@@ -26,7 +26,7 @@ of practice. *Cultural Studies of Science Education*, 12 (2), 275-298. [doi: 10.
 
 ## IN-PROGRESS PUBLICATIONS 
 
-**Nicholas, C.** & Scribner, A. (in draft). Enhancing PBL authenticity by engaging STEM professional volunteers
+**Nicholas, C.** & Scribner, A. (Under review). Enhancing PBL authenticity by engaging STEM professional volunteers. *Interdisciplinary Journal of Problem-based Learning*
 
 **Nicholas, C.**, Park Rogers, M., & McClain, J. (in draft). How rural elementary teachers elicit students’ funds of knowledge to support learning with science representations. 
 
