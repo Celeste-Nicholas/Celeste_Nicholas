@@ -2,7 +2,7 @@
 permalink: /index.html
 ---
 ![Headshot](assets/Sept headshot3.jpeg) <br>
-**Ph.D. in Education** Emphasis: Teaching & Learning Processes <br>
+**Ph.D. in Education,** Teaching & Learning Processes <br>
 **Postdoctoral Research Associate,** [Indiana University](https://crlt.indiana.edu/people/index.html) <br>
 ----
 ### [CV](CV-Nicholas_Oct 2019.pdf)
