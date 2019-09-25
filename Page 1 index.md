@@ -5,7 +5,7 @@ permalink: /index.html
 **Ph.D. in Education** <br>
 **Postdoctoral Research Associate,** [Indiana University](https://crlt.indiana.edu/people/index.html) <br>
 ----
-### [CV](assets/CV-Nicholas_Sept 26 2019 website.pdf)
+### [CV](CV-Nicholas_Oct 2019.pdf)
 ### [Projects](./Projects.md)
 ### [Publications & Presentations](./Publications & Presentations.md)
 ----
