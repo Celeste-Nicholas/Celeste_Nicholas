@@ -43,7 +43,7 @@ Louis, MO. Retrieved from [http://www.springboardstl.org/causes/ideabuilder](htt
  
 Danish, J., **Nicholas, C.,** Hmelo-Silver, C., Park Rogers, M., Cross Francis, D., Enyedy, N., Keifert, D., and Stiso, S. (submitted). *What, how, and why do elementary teachers think about using representations in their science teaching?* Paper submitted to American Educational Research Association (AERA) Annual Meeting. New York, NY. San Francisco, CA. 
  
-Park Rogers, M., **Nicholas. C,** Danish, J., Gerber, A., McClain, J., Phillips, A., Stiso, C., and Zhong, Q. (submitted). *Elementary teachers’ developing perceptions of the role of representations in teaching science.* Paper submitted to the Association for Science Teacher Education International Conference. San Antonio, TX.  
+Park Rogers, M., **Nicholas. C,** Danish, J., Gerber, A., McClain, J., Phillips, A., Stiso, C., and Zhong, Q. (2020). *Elementary teachers’ developing perceptions of the role of representations in teaching science.* Paper submitted to the Association for Science Teacher Education International Conference. San Antonio, TX.  
 
 Park Rogers, M., Danish, J., **Nicholas, C.,** Cross Francis, D. Hmelo-Silver, C. (2019). *Supporting teacher cognition and instruction of science representations in elementary classrooms: A peek into the first year of a multi-year program.* Poster presented at the Association for Science Teacher Education International Conference. Savannah, GA., January.
  
