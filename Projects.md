@@ -35,6 +35,4 @@ The SciJourn project supported students in writing and publishing science news a
 
 She examined the ways SciJourn, as a science journalism community of practice, fostered positive writer identities compared to typical school writing experiences. 
 
-A complete list of projects can be found on [Celeste's CV](https://www.celestenicholas.com/assets/CV-Nicholas_Sept%202019%20website.pdf)
-
 [back](./)
