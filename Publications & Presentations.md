@@ -39,9 +39,7 @@ Louis, MO. Retrieved from [http://www.springboardstl.org/causes/ideabuilder](htt
 
 ## REFEREED CONFERENCE PRESENTATIONS 
 
-**Nicholas, C.,** Keifert, D., Danish, J., & Park Rogers, M. (submitted). *Using teachers’ self-selected video of representations during science lessons to inform professional learning designs*. Paper submitted to American Educational Research Association (AERA) Annual Meeting. New York, NY. San Francisco, CA. 
- 
-Danish, J., **Nicholas, C.,** Hmelo-Silver, C., Park Rogers, M., Cross Francis, D., Enyedy, N., Keifert, D., and Stiso, S. (submitted). *What, how, and why do elementary teachers think about using representations in their science teaching?* Paper submitted to American Educational Research Association (AERA) Annual Meeting. New York, NY. San Francisco, CA. 
+Danish, J., **Nicholas, C.,** Hmelo-Silver, C., Park Rogers, M., Cross Francis, D., Enyedy, N., Keifert, D., and Stiso, S. (2020). *What, how, and why do elementary teachers think about using representations in their science teaching?* Paper submitted to American Educational Research Association (AERA) Annual Meeting. San Francisco, CA. 
  
 Park Rogers, M., **Nicholas. C,** Danish, J., Gerber, A., McClain, J., Phillips, A., Stiso, C., and Zhong, Q. (2020). *Elementary teachers’ developing perceptions of the role of representations in teaching science.* Paper submitted to the Association for Science Teacher Education International Conference. San Antonio, TX.  
 
