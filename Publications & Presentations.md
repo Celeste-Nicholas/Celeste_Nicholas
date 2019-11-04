@@ -39,7 +39,7 @@ Louis, MO. Retrieved from [http://www.springboardstl.org/causes/ideabuilder](htt
 
 ## REFEREED CONFERENCE PRESENTATIONS 
 
-**Nicholas, C.,** McClain, J., Park Rogers, M., & Danish, J. (submitted). *Elementary teachers' elicitation of students’ funds of knowledge to support science learning with representations.* Poster submitted to the International Conference on the Learning Sciences. Nashville, TN. 
+**Nicholas, C.,** McClain, J., Park Rogers, M., & Danish, J. (submitted). *Elementary teachers' elicitation of students’ funds of knowledge to support science learning with representations.* Poster submitted to the International Conference on the Learning Sciences (ICLS). Nashville, TN. 
 
 **Nicholas, C.,** Park Rogers, M.,  Danish, J., Hmelo-Silver, C., Zhong, Q., Stiso, C., Phillips, A., McClain, J., Gerber, A., (2020). *Rural elementary teachers’ perceptions about incorporating representations into their science teaching.* Paper presented at the National Association for Research in Science Teaching (NARST) International Conference. Portland, OR.
 
