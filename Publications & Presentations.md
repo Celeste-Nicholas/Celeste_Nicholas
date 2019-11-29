@@ -4,6 +4,8 @@ layout: default
 
 ## ARTICLES IN REFEREED JOURNALS
 
+**Nicholas, C.** & Scribner, A. (Under review). Enhancing PBL authenticity by engaging STEM professional volunteers. *Interdisciplinary Journal of Problem-based Learning*
+
 **Nicholas, C.** & Eastman-Mueller, H. (In Press). Supporting critical social analysis: Empowering 
 	processes in a reproductive justice youth program. *Urban Review.*
 
@@ -24,8 +26,6 @@ of practice. *Cultural Studies of Science Education*, 12 (2), 275-298. [doi: 10.
 **Nicholas, C.** (2015). Envisioning NGSS.  Science Teachers of Missouri: Missouri Science News
 
 ## IN-PROGRESS PUBLICATIONS 
-
-**Nicholas, C.** & Scribner, A. (Under review). Enhancing PBL authenticity by engaging STEM professional volunteers. *Interdisciplinary Journal of Problem-based Learning*
 
 **Nicholas, C.**, McClain, J., & Park Rogers, M. (in draft). How rural elementary teachers elicit students’ funds of knowledge to support learning with science representations. 
 
