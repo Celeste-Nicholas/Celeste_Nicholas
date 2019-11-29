@@ -5,7 +5,7 @@ permalink: /index.html
 **Ph.D. in Education,** Teaching & Learning Processes <br>
 **Postdoctoral Research Associate,** [Indiana University](https://crlt.indiana.edu/people/index.html) <br>
 ----
-### [CV](CV-Nicholas_Oct 2019.pdf)
+### [CV](CV-Nicholas_Nov 2019.pdf)
 ### [Projects](./Projects.md)
 ### [Publications & Presentations](./Publications & Presentations.md)
 ----
