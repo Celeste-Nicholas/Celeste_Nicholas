@@ -7,9 +7,9 @@ layout: default
 **Nicholas, C.** & Eastman-Mueller, H. (In Press). Supporting critical social analysis: Empowering 
 	processes in a reproductive justice youth program. *Urban Review.*
 
-Cross Francis, D., Tan, V. & **Nicholas, C.** (In Press). Supporting disciplinary and interdisciplinary knowledge development and design thinking in an informal, pre-engineering program: A workplace simulation project. *School Science & Mathematics.*
+Cross Francis, D., Tan, V. & **Nicholas, C.** (2019). Supporting disciplinary and interdisciplinary knowledge development and design thinking in an informal, pre-engineering program: A workplace simulation project. *School Science & Mathematics.*, 199 (7), 382-395.
 
-**Nicholas, C.,** Eastman-Mueller, H. & Barbich, N. (2019). Empowering change agents: Youth organizing groups as sites for sociopolitical development. *American Journal of Community Psychology*. [doi: 10.1002/ajcp.12315](https://doi.org/10.1002/ajcp.12315) 
+**Nicholas, C.,** Eastman-Mueller, H. & Barbich, N. (2019). Empowering change agents: Youth organizing groups as sites for sociopolitical development. *American Journal of Community Psychology*, 63(1-2), 46-60. [doi: 10.1002/ajcp.12315](https://doi.org/10.1002/ajcp.12315) 
 
 Tan, V., **Nicholas, C.,**  Scribner, A., & Cross Francis, D. (2019). Enhancing STEM learning through 
 	an interdisciplinary, industry-generated project. *Technology and Engineering Teacher*, 79 (1).
