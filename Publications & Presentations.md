@@ -7,7 +7,7 @@ layout: default
 **Nicholas, C.** & Scribner, A. (Under review). Enhancing PBL authenticity by engaging STEM professional volunteers. *Interdisciplinary Journal of Problem-based Learning.* 
 
 **Nicholas, C.** & Eastman-Mueller, H. (2020). Supporting critical social analysis: Empowering 
-	processes in a reproductive justice youth program. *Urban Review.* [https://doi.org/10.1007/s11256-020-00548-0] (https://doi.org/10.1007/s11256-020-00548-0)
+	processes in a reproductive justice youth program. *Urban Review.* [doi.org/10.1007/s11256-020-00548-0](https://doi.org/10.1007/s11256-020-00548-0)
 
 Cross Francis, D., Tan, V. & **Nicholas, C.** (2019). Supporting disciplinary and interdisciplinary knowledge development and design thinking in an informal, pre-engineering program: A workplace simulation project. *School Science & Mathematics.*, 119 (7), 382-395. [doi: 10.1111/ssm.12364](https://doi.org/10.1111/ssm.12364)
 
