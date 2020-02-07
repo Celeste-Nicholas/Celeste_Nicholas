@@ -27,7 +27,7 @@ of practice. *Cultural Studies of Science Education*, 12 (2), 275-298. [doi: 10.
 
 ## IN-PROGRESS PUBLICATIONS 
 
-**Nicholas, C.**, McClain, J., & Park Rogers, M. (in draft). How rural elementary teachers elicit students’ funds of knowledge to support learning with science representations. 
+**Nicholas, C.**, McClain, J., Park Rogers, M., & Danish, J. (in draft). How rural elementary teachers elicit students’ funds of knowledge to support learning with science representations. 
 
 ## CURRICULA
 
