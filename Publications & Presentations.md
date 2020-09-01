@@ -45,11 +45,11 @@ Louis, MO. Retrieved from [http://www.springboardstl.org/causes/ideabuilder](htt
 
 ## REFEREED CONFERENCE PRESENTATIONS 
 
-Zhong, Q., **Nicholas, C.,** Park Rogers, M., Danish, J.A, & Hmelo-Silver, C. (2021, Submitted). Examining the Trajectory of an Elementary Teacher’s Practice with Using Science Representations Across Coached Lessons. Focus on one IU teacher's practice in same coached unit over two years. Paper submitted to the National Association for Research in Science Teaching (NARST) International Conference. 
+Zhong, Q., **Nicholas, C.,** Park Rogers, M., Danish, J.A, & Hmelo-Silver, C. (2021, Submitted). *Examining the Trajectory of an Elementary Teacher’s Practice with Using Science Representations Across Coached Lessons. Focus on one IU teacher's practice in same coached unit over two years.* Paper submitted to the National Association for Research in Science Teaching (NARST) International Conference. 
 
-**Nicholas, C.,** & Stiso, C. (2021, Submitted). A second grade teacher’s use of multiple representations to introduce micro scale conceptions of matter. Poster submitted to American Educational Research Association (AERA) Annual Meeting. Orlando, Florida. 
+**Nicholas, C.,** & Stiso, C. (2021, Submitted). *A second grade teacher’s use of multiple representations to introduce micro scale conceptions of matter.* Poster submitted to American Educational Research Association (AERA) Annual Meeting. Orlando, Florida. 
 
-Zhong, Q. & **Nicholas, C.** (2021). Exploring an elementary teacher’s knowledge and practices with science representations over two years of professional development. Paper to be presented at Association for Science Teacher Education (ASTE) International Conference. Salt Lake City, UT.  
+Zhong, Q. & **Nicholas, C.** (2021). *Exploring an elementary teacher’s knowledge and practices with science representations over two years of professional development.* Paper to be presented at Association for Science Teacher Education (ASTE) International Conference. Salt Lake City, UT.  
 
 Danish, J.A., Stiso, C., **Nicholas, C.,** Hmelo-Silver, C., Park Rogers, M., and Cross Francis, D. (2020). *What, how, and why do elementary teachers think about using representations in their science teaching?* Paper presented at the International Conference on the Learning Sciences (ICLS). Nashville, TN.
 
