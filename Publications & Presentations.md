@@ -4,7 +4,6 @@ layout: default
 
 ## ARTICLES IN REFEREED JOURNALS
 
-**Nicholas, C.** & Scribner, A. (Under review). Enhancing PBL authenticity by engaging STEM professional volunteers. *Interdisciplinary Journal of Problem-based Learning.* 
 
 **Nicholas, C.** & Eastman-Mueller, H. (2020). Supporting critical social analysis: Empowering 
 	processes in a reproductive justice youth program. *Urban Review.* [doi.org/10.1007/s11256-020-00548-0](https://doi.org/10.1007/s11256-020-00548-0)
@@ -27,7 +26,15 @@ of practice. *Cultural Studies of Science Education*, 12 (2), 275-298. [doi: 10.
 
 ## IN-PROGRESS PUBLICATIONS 
 
-**Nicholas, C.**, McClain, J., Park Rogers, M., & Danish, J. (in draft). How rural elementary teachers elicit students’ funds of knowledge to support learning with science representations. 
+Danish, J.A., Johnson, H., **Nicholas., C.,** Cross Francis, D. Hmelo-Silver, C., Park Rogers, M.,…Enyedy, N. (Under review). Video as context for learning how to mediate inquiry learning with representations. *Learning, Culture and Social Interaction.*
+
+McClain, J., **Nicholas, C.,** Pierce, E., Zimmerman, K., Danish, J.A., & Zhong, Q. (Under review). Using multiple representations to shine light on unobservable Earth science phenomena. *Science and Children.* 
+
+**Nicholas, C.** & Scribner, A. (Under review). Enhancing PBL authenticity by engaging STEM professional volunteers. *Interdisciplinary Journal of Problem-based Learning.* 
+
+**Nicholas, C.**, McClain, J., Park Rogers, M., & Danish, J. (in draft). Preparing for equity-focused professional development: Elementary teachers’ existing views and practices around students’ science knowledge. 
+
+Danish, J.A., **Nicholas, C.,** Stiso, C., Hmelo-Silver, C., Park Rogers, M., & Cross Francis, D. (in draft). Teachers’ evolving ideas about using representations to support science learning. 
 
 ## CURRICULA
 
@@ -38,15 +45,21 @@ Louis, MO. Retrieved from [http://www.springboardstl.org/causes/ideabuilder](htt
 
 ## REFEREED CONFERENCE PRESENTATIONS 
 
-Danish, J., Stiso, C., **Nicholas, C.,** Hmelo-Silver, C., Park Rogers, M., and Cross Francis, D. (2020). *What, how, and why do elementary teachers think about using representations in their science teaching?* Paper presented at the International Conference on the Learning Sciences (ICLS). Nashville, TN.
+Zhong, Q., **Nicholas, C.,** Park Rogers, M., Danish, J.A, & Hmelo-Silver, C. (2021, Submitted). Examining the Trajectory of an Elementary Teacher’s Practice with Using Science Representations Across Coached Lessons. Focus on one IU teacher's practice in same coached unit over two years. Paper submitted to the National Association for Research in Science Teaching (NARST) International Conference. 
 
-**Nicholas, C.,** McClain, J., Park Rogers, M., & Danish, J. (2020). *Elementary teachers' elicitation of students’ funds of knowledge to support science learning with representations.* Poster presented at the International Conference on the Learning Sciences (ICLS). Nashville, TN. 
+**Nicholas, C.,** & Stiso, C. (2021, Submitted). A second grade teacher’s use of multiple representations to introduce micro scale conceptions of matter. Poster submitted to American Educational Research Association (AERA) Annual Meeting. Orlando, Florida. 
 
-**Nicholas, C.,** Park Rogers, M.,  Danish, J., Hmelo-Silver, C., Zhong, Q., Stiso, C., Phillips, A., McClain, J., Gerber, A., (2020). *Rural elementary teachers’ perceptions about incorporating representations into their science teaching.* Paper presented at the National Association for Research in Science Teaching (NARST) International Conference. Portland, OR.
+Zhong, Q. & **Nicholas, C.** (2021). Exploring an elementary teacher’s knowledge and practices with science representations over two years of professional development. Paper to be presented at Association for Science Teacher Education (ASTE) International Conference. Salt Lake City, UT.  
 
-Danish, J., **Nicholas, C.,** Hmelo-Silver, C., Park Rogers, M., Cross Francis, D., Enyedy, N., Keifert, D., and Stiso, S. (2020). *What, how, and why do elementary teachers think about using representations in their science teaching?* Paper presented at the American Educational Research Association (AERA) Annual Meeting. San Francisco, CA. 
+Danish, J.A., Stiso, C., **Nicholas, C.,** Hmelo-Silver, C., Park Rogers, M., and Cross Francis, D. (2020). *What, how, and why do elementary teachers think about using representations in their science teaching?* Paper presented at the International Conference on the Learning Sciences (ICLS). Nashville, TN.
+
+**Nicholas, C.,** McClain, J., Park Rogers, M., & Danish, J.A. (2020). *Elementary teachers' elicitation of students’ funds of knowledge to support science learning with representations.* Poster presented at the International Conference on the Learning Sciences (ICLS). Nashville, TN. 
+
+**Nicholas, C.,** Park Rogers, M.,  Danish, J.A., Hmelo-Silver, C., Zhong, Q., Stiso, C., Phillips, A., McClain, J., Gerber, A., (2020). *Rural elementary teachers’ perceptions about incorporating representations into their science teaching.* Paper presented at the National Association for Research in Science Teaching (NARST) International Conference. Portland, OR.
+
+Danish, J.A., **Nicholas, C.,** Hmelo-Silver, C., Park Rogers, M., Cross Francis, D., Enyedy, N., Keifert, D., and Stiso, S. (2020). *What, how, and why do elementary teachers think about using representations in their science teaching?* Paper presented at the American Educational Research Association (AERA) Annual Meeting. San Francisco, CA. 
  
-Park Rogers, M., **Nicholas. C,** Danish, J., Gerber, A., McClain, J., Phillips, A., Stiso, C., and Zhong, Q. (2020). *Elementary teachers’ developing perceptions of the role of representations in teaching science.* Paper presented at the Association for Science Teacher Education (ASTE) International Conference. San Antonio, TX.  
+Park Rogers, M., **Nicholas. C,** Danish, J.A., Gerber, A., McClain, J., Phillips, A., Stiso, C., and Zhong, Q. (2020). *Elementary teachers’ developing perceptions of the role of representations in teaching science.* Paper presented at the Association for Science Teacher Education (ASTE) International Conference. San Antonio, TX.  
 
 Park Rogers, M., Danish, J., **Nicholas, C.,** Cross Francis, D. Hmelo-Silver, C. (2019). *Supporting teacher cognition and instruction of science representations in elementary classrooms: A peek into the first year of a multi-year program.* Poster presented at the Association for Science Teacher Education International Conference. Savannah, GA., January.
  
