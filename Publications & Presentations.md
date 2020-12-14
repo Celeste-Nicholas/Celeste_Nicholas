@@ -26,7 +26,7 @@ of practice. *Cultural Studies of Science Education*, 12 (2), 275-298. [doi: 10.
 
 Danish, J., Stiso, C., **Nicholas, C.,** Hmelo-Silver, C. E., Rogers, M. P., & Francis, D. C. (2020). *What, how, and why do elementary teachers think about using representations in their science teaching?.* In Gresalfi, M. and Horn, I. S. (Eds.), The Interdisciplinarity of the Learning Sciences, 14th International Conference of the Learning Sciences (ICLS) 2020, 4 (1934-1941). Nashville, Tennessee: International Society of the Learning Sciences. Retrieved from [https://repository.isls.org//handle/1/6476](https://repository.isls.org//handle/1/6476)
 
-## NON-REFERREED PUBLICATIONS 
+## NON-REFEREED PUBLICATIONS 
 
 **Nicholas, C.** (2015). Envisioning NGSS.  Science Teachers of Missouri: Missouri Science News
 
