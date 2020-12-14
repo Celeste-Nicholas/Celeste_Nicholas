@@ -36,6 +36,9 @@ McClain, J., **Nicholas, C.,** Pierce, E., Zimmerman, K., Danish, J.A., & Zhong,
 
 Danish, J.A., **Nicholas, C.,** Stiso, C., Hmelo-Silver, C., Park Rogers, M., & Cross Francis, D. (in draft). Teachers’ evolving ideas about using representations to support science learning. 
 
+Park Rogers, M., Hmelo-Silver, C., **Nicholas, C.,** and Danish, J., (in draft). The POWER of 
+Representations: Portraying Observations to Warrant Explanation and Reasoning in Science. (Intended for Science and Children)
+
 ## CURRICULA
 
 Launius, C. & **Nicholas, C.** (2015). IdeaBuilder. Signature Programs, Springboard to Learning, St. 
@@ -44,10 +47,6 @@ Louis, MO. Retrieved from [http://www.springboardstl.org/causes/ideabuilder](htt
 **Nicholas, C. (2014).** Project health. Signature Programs, Springboard to Learning.  St. Louis, MO. Retrieved from [http://www.springboardstl.org/causes/project-health/](http://www.springboardstl.org/causes/project-health/)
 
 ## REFEREED CONFERENCE PRESENTATIONS 
-
-Zhong, Q., **Nicholas, C.,** Park Rogers, M., Danish, J.A, & Hmelo-Silver, C. (2021, Submitted). *Examining the Trajectory of an Elementary Teacher’s Practice with Using Science Representations Across Coached Lessons. Focus on one IU teacher's practice in same coached unit over two years.* Paper submitted to the National Association for Research in Science Teaching (NARST) International Conference. 
-
-**Nicholas, C.,** & Stiso, C. (2021, Submitted). *A second grade teacher’s use of multiple representations to introduce micro scale conceptions of matter.* Poster submitted to American Educational Research Association (AERA) Annual Meeting. Orlando, Florida. 
 
 Zhong, Q. & **Nicholas, C.** (2021). *Exploring an elementary teacher’s knowledge and practices with science representations over two years of professional development.* Paper to be presented at Association for Science Teacher Education (ASTE) International Conference. Salt Lake City, UT.  
 
