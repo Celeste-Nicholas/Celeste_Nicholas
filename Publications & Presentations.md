@@ -22,7 +22,9 @@ of practice. *Cultural Studies of Science Education*, 12 (2), 275-298. [doi: 10.
 
 ## PUBLISHED PROCEEDINGS
 
-Danish, J., Stiso, C., Nicholas, C., Hmelo-Silver, C. E., Rogers, M. P., & Francis, D. C. (2020). *What, how, and why do elementary teachers think about using representations in their science teaching?.* In Gresalfi, M. and Horn, I. S. (Eds.), The Interdisciplinarity of the Learning Sciences, 14th International Conference of the Learning Sciences (ICLS) 2020, 4 (1934-1941). Nashville, Tennessee: International Society of the Learning Sciences. Retrieved from [https://repository.isls.org//handle/1/6476](https://repository.isls.org//handle/1/6476)
+**Nicholas, C.,** McClain, J., Park Rogers, M., & Danish, J.A. (2020). *Elementary teachers' elicitation of students’ funds of knowledge to support science learning with representations.*  In Gresalfi, M. and Horn, I. S. (Eds.), The Interdisciplinarity of the Learning Sciences, 14th International Conference of the Learning Sciences (ICLS) 2020, Volume 4 (pp. 2151-2158). Nashville, Tennessee: International Society of the Learning Sciences. Retrieved from https://repository.isls.org//handle/1/6506
+
+Danish, J., Stiso, C., **Nicholas, C.,** Hmelo-Silver, C. E., Rogers, M. P., & Francis, D. C. (2020). *What, how, and why do elementary teachers think about using representations in their science teaching?.* In Gresalfi, M. and Horn, I. S. (Eds.), The Interdisciplinarity of the Learning Sciences, 14th International Conference of the Learning Sciences (ICLS) 2020, 4 (1934-1941). Nashville, Tennessee: International Society of the Learning Sciences. Retrieved from [https://repository.isls.org//handle/1/6476](https://repository.isls.org//handle/1/6476)
 
 ## NON-REFERREED PUBLICATIONS 
 
@@ -53,8 +55,6 @@ Louis, MO. Retrieved from [http://www.springboardstl.org/causes/ideabuilder](htt
 ## REFEREED CONFERENCE PRESENTATIONS 
 
 Zhong, Q. & **Nicholas, C.** (2021). *Exploring an elementary teacher’s knowledge and practices with science representations over two years of professional development.* Paper to be presented at Association for Science Teacher Education (ASTE) International Conference. Salt Lake City, UT.  
-
-**Nicholas, C.,** McClain, J., Park Rogers, M., & Danish, J.A. (2020). *Elementary teachers' elicitation of students’ funds of knowledge to support science learning with representations.* Poster presented at the International Conference on the Learning Sciences (ICLS). Nashville, TN. 
 
 **Nicholas, C.,** Park Rogers, M.,  Danish, J.A., Hmelo-Silver, C., Zhong, Q., Stiso, C., Phillips, A., McClain, J., Gerber, A., (2020). *Rural elementary teachers’ perceptions about incorporating representations into their science teaching.* Paper presented at the National Association for Research in Science Teaching (NARST) International Conference. Portland, OR.
 
