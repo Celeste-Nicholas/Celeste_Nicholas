@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## ARTICLES IN REFEREED JOURNALS
-
+McClain, J., **Nicholas, C.,** Pierce, E., Zimmerman, K., Danish, J.A., & Zhong, Q. (In press). Using multiple representations to shine light on unobservable Earth science phenomena. *Science and Children.*
 
 **Nicholas, C.** & Eastman-Mueller, H. (2020). Supporting critical social analysis: Empowering 
 	processes in a reproductive justice youth program. *Urban Review.* [doi.org/10.1007/s11256-020-00548-0](https://doi.org/10.1007/s11256-020-00548-0)
