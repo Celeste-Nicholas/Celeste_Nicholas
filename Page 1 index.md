@@ -10,6 +10,6 @@ permalink: /index.html
 ### [Publications & Presentations](./Publications & Presentations.md)
 ----
 
-**Contact:** Celeste.Nicholas@gmail.com
+**Contact:** Celeste.Nicholas@gmail.com <br>
 **Linkedin** [https://www.linkedin.com/in/celeste-nicholas/](https://www.linkedin.com/in/celeste-nicholas/)
 
