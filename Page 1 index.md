@@ -11,5 +11,5 @@ permalink: /index.html
 ----
 
 **Contact:** Celeste.Nicholas@gmail.com <br>
-**Linkedin** [https://www.linkedin.com/in/celeste-nicholas/](https://www.linkedin.com/in/celeste-nicholas/)
+**Linkedin:** [https://www.linkedin.com/in/celeste-nicholas/](https://www.linkedin.com/in/celeste-nicholas/)
 
