@@ -5,6 +5,9 @@ layout: default
 ## ARTICLES IN REFEREED JOURNALS
 McClain, J., **Nicholas, C.,** Pierce, E., Zimmerman, K., Danish, J.A., & Zhong, Q. (In press). Using multiple representations to shine light on unobservable Earth science phenomena. *Science and Children.*
 
+Park Rogers, M., Hmelo-Silver, C., **Nicholas, C.,** and Danish, J., (In press). The POWER of 
+Representations: Portraying Observations to Warrant Explanation and Reasoning in Science. *Science and Children.*
+
 **Nicholas, C.** & Eastman-Mueller, H. (2020). Supporting critical social analysis: Empowering 
 	processes in a reproductive justice youth program. *Urban Review.* [doi.org/10.1007/s11256-020-00548-0](https://doi.org/10.1007/s11256-020-00548-0)
 
@@ -34,16 +37,11 @@ Danish, J., Stiso, C., **Nicholas, C.,** Hmelo-Silver, C. E., Rogers, M. P., & F
 
 Danish, J.A., Johnson, H., **Nicholas., C.,** Cross Francis, D. Hmelo-Silver, C., Park Rogers, M.,…Enyedy, N. (Under review). Video as context for learning how to mediate inquiry learning with representations. *Learning, Culture and Social Interaction.*
 
-McClain, J., **Nicholas, C.,** Pierce, E., Zimmerman, K., Danish, J.A., & Zhong, Q. (Under review). Using multiple representations to shine light on unobservable Earth science phenomena. *Science and Children.* 
-
 **Nicholas, C.** & Scribner, A. (Under review). Enhancing PBL authenticity by engaging STEM professional volunteers. *Interdisciplinary Journal of Problem-based Learning.* 
 
 **Nicholas, C.**, McClain, J., Park Rogers, M., & Danish, J. (in draft). Preparing for equity-focused professional development: Elementary teachers’ existing views and practices around students’ science knowledge. 
 
 Danish, J.A., **Nicholas, C.,** Stiso, C., Hmelo-Silver, C., Park Rogers, M., & Cross Francis, D. (in draft). Teachers’ evolving ideas about using representations to support science learning. 
-
-Park Rogers, M., Hmelo-Silver, C., **Nicholas, C.,** and Danish, J., (in draft). The POWER of 
-Representations: Portraying Observations to Warrant Explanation and Reasoning in Science. (Intended for Science and Children)
 
 ## CURRICULA
 
