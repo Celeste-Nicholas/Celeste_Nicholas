@@ -3,6 +3,8 @@ layout: default
 ---
 
 ## ARTICLES IN REFEREED JOURNALS
+Danish, J. A., Johnson, H., **Nicholas., C.,** Cross Francis, D. Hmelo-Silver, C., Park Rogers, M., Askew, R., Gerber, A., Enyedy, N. (In press). Situating video as context for teacher learning.  *Learning, Culture and Social Interaction.*
+
 McClain, J., **Nicholas, C.,** Pierce, E., Zimmerman, K., Danish, J.A., & Zhong, Q. (In press). Using multiple representations to shine light on unobservable Earth science phenomena. *Science and Children.*
 
 Park Rogers, M., Hmelo-Silver, C., **Nicholas, C.,** and Danish, J., (In press). The POWER of 
@@ -34,8 +36,6 @@ Danish, J., Stiso, C., **Nicholas, C.,** Hmelo-Silver, C. E., Rogers, M. P., & F
 **Nicholas, C.** (2015). Envisioning NGSS.  Science Teachers of Missouri: Missouri Science News
 
 ## IN-PROGRESS PUBLICATIONS 
-
-Danish, J.A., Johnson, H., **Nicholas., C.,** Cross Francis, D. Hmelo-Silver, C., Park Rogers, M.,…Enyedy, N. (Under review). Video as context for learning how to mediate inquiry learning with representations. *Learning, Culture and Social Interaction.*
 
 **Nicholas, C.** & Scribner, A. (Under review). Enhancing PBL authenticity by engaging STEM professional volunteers. *Interdisciplinary Journal of Problem-based Learning.* 
 
