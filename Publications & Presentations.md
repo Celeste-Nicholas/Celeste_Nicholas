@@ -7,8 +7,7 @@ Danish, J. A., Johnson, H., **Nicholas., C.,** Cross Francis, D. Hmelo-Silver, C
 
 McClain, J., **Nicholas, C.,** Pierce, E., Zimmerman, K., Danish, J.A., & Zhong, Q. (In press). Using multiple representations to shine light on unobservable Earth science phenomena. *Science and Children.*
 
-Park Rogers, M., Hmelo-Silver, C., **Nicholas, C.,** and Danish, J., (In press). The POWER of 
-Representations: Portraying Observations to Warrant Explanation and Reasoning in Science. *Science and Children.*
+Park Rogers, M., Hmelo-Silver, C., **Nicholas, C.,** and Danish, J., (In press). Learning to teach with science representations: Meaningfully connecting the three dimensions of science. *Science and Children.*
 
 **Nicholas, C.** & Eastman-Mueller, H. (2020). Supporting critical social analysis: Empowering 
 	processes in a reproductive justice youth program. *Urban Review.* [doi.org/10.1007/s11256-020-00548-0](https://doi.org/10.1007/s11256-020-00548-0)
